@@ -1,2 +1,6 @@
 file1
+<<<<<<< HEAD
 this is the second user 
+=======
+testing 
+>>>>>>> experimental
